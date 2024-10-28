@@ -1,5 +1,5 @@
-//
-// Solved at:
+//https://codeforces.com/problemset/problem/44/A
+// Solved at:Oct/28/2024 23:28UTC+6
 #include <bits/stdc++.h>
 #define Code ios_base::sync_with_stdio(false);
 #define By cin.tie(NULL);
