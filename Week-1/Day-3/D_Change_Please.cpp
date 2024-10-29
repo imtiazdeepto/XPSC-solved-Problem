@@ -1,5 +1,5 @@
-//
-// Solved at:
+//https://www.codechef.com/problems/CHANGE_PLZ
+// Solved at:11:20 pm 29 Oct 2024
 #include <bits/stdc++.h>
 #define Code ios_base::sync_with_stdio(false);
 #define By cin.tie(NULL);
