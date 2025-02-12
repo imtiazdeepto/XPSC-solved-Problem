@@ -1,6 +1,7 @@
 /*
   In the name of Allah, The Most Gracious and The Most Merciful.
 */
+
 #include <bits/stdc++.h>
 #define Code ios_base::sync_with_stdio(false);
 #define By cin.tie(NULL);
